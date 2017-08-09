@@ -16,6 +16,7 @@ namespace Week5_MVC.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
+            ViewData["CustomMessage"] = "Your mumma is a humma";
 
             return View();
         }
@@ -27,6 +28,12 @@ namespace Week5_MVC.Controllers
             return View();
         }
 
+        public IActionResult NewPage()
+        {
+            ViewData["Message"] = "Your New page.";
+
+            return View();
+        }
         public IActionResult Error()
         {
             return View();

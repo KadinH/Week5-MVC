@@ -1,0 +1,8 @@
+C:\Users\9983505\Desktop\COMP5007\Week5-MVC\bin\Debug\netcoreapp1.1\Week5-MVC.deps.json
+C:\Users\9983505\Desktop\COMP5007\Week5-MVC\bin\Debug\netcoreapp1.1\Week5-MVC.runtimeconfig.json
+C:\Users\9983505\Desktop\COMP5007\Week5-MVC\bin\Debug\netcoreapp1.1\Week5-MVC.runtimeconfig.dev.json
+C:\Users\9983505\Desktop\COMP5007\Week5-MVC\bin\Debug\netcoreapp1.1\Week5-MVC.dll
+C:\Users\9983505\Desktop\COMP5007\Week5-MVC\bin\Debug\netcoreapp1.1\Week5-MVC.pdb
+C:\Users\9983505\Desktop\COMP5007\Week5-MVC\obj\Debug\netcoreapp1.1\Week5-MVC.AssemblyInfo.cs
+C:\Users\9983505\Desktop\COMP5007\Week5-MVC\obj\Debug\netcoreapp1.1\Week5-MVC.dll
+C:\Users\9983505\Desktop\COMP5007\Week5-MVC\obj\Debug\netcoreapp1.1\Week5-MVC.pdb
